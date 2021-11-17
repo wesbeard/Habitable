@@ -1,4 +1,4 @@
-# habitable
+# Habitable
 
 A work in progress habit and task management app
 
